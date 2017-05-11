@@ -1,0 +1,19 @@
+Subject: C,Meeting   ,01/12/2017,15:30,NEB202    
+Subject: Cancel    
+Subject: C,Meeting   ,01/19/2017,15:30,NEB202    
+Subject: C,Class     ,01/13/2017,09:00,LAR239    
+Subject: C,Meeting   ,01/13/2017,12:30,MAEB300   
+Subject: C,Info      ,01/13/2017,11:30,BEN216    
+Subject: D,Meeting   ,01/19/2017,15:30,NEB202    
+Subject: C,Meeting   ,01/19/2017,15:30    
+Subject: Registration
+Subject: X,Class     ,01/13/2017,09:00,LAR225    
+Subject: C,Info1     ,01/20/2017,09:00,LAR216    
+Subject: C,Info2     ,01/20/2017,10:30,LAR217    
+Subject: D,Info1     ,01/20/2017,09:00,LAR216    
+Subject: C,Info3     ,01/20/2017,10:00,LAR218    
+Subject: X,Info2     ,01/20/2017,09:30,LAR219    
+Subject: D,Info2     ,01/20/2017,09:30,LAR219    
+Subject: D,Info3     ,01/20/2017,10:00,LAR218    
+Subject: C,Meeting   ,01/12/2017,15:30,NEB201    
+Subject: C,Meeting   ,01/12/2017,15:00,NEB201    
